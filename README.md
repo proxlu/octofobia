@@ -1,2 +1,2 @@
 # octofobia
-A horror game.
+Jogo de terror.
